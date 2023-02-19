@@ -4,18 +4,19 @@
     height:150px;
 }
 body {
-    background-color: #557153;  
+    background-color: #F0ECCF; 
+    color:#698269; 
 }
 
 hr {
-    background-color: #557153;
+    background-color: #F0ECCF;
     border-style: none;
     border-top-style: dotted;
-    border-color:#E6E5A3;
+    border-color:#B99B6B;
     border-width: 5px;
     width: 5%;
 }
 
-h1 h3 {
-   color:#A9AF7E;
+h1, h3, h4 {
+   color:#AA5656;
 }
