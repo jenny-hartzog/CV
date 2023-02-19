@@ -3,7 +3,9 @@ body {
     background-color: #F0ECCF; 
     color:#698269; 
 }
-
+p { 
+    color:#698269;
+}
 hr {
     background-color: #F0ECCF;
     border-style: none;
